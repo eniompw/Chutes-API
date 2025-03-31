@@ -2,3 +2,5 @@
 Simple Example of the Chutes API
 
 `export CHUTES_API_TOKEN=cpk_...`
+
+[Chutes](https://chutes.ai/app)
